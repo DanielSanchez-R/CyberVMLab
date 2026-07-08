@@ -8,6 +8,23 @@ Kali Linux was used as the client, traffic generator, and testing machine. Ubunt
 
 All testing was performed in an authorized local VM lab environment.
 
+I this lab I will demonstrate expereince in:
+
+Linux administration
+Virtual machine networking
+Packet capture
+Wireshark analysis
+tcpdump usage
+Nmap scanning in an authorized lab
+Apache2 service management
+SSH session testing
+HTTP vs HTTPS analysis
+TCP open/closed port behavior
+ARP/MAC address analysis
+ICMP/IP/TTL analysis
+Documentation discipline
+Cleanup and service shutdown
+
 ---
 
 ## Lab Topology
