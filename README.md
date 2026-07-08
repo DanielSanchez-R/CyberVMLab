@@ -8,8 +8,6 @@ Kali Linux was used as the client, traffic generator, and testing machine. Ubunt
 
 All testing was performed in an authorized local VM lab environment.
 
-I this lab I will demonstrate expereince in:
-
 Linux administration
 Virtual machine networking
 Packet capture
